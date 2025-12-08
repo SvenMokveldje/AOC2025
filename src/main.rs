@@ -4,5 +4,5 @@
 mod days;
 
 fn main() {
-    days::day6::day();
+    days::day7::day();
 }
